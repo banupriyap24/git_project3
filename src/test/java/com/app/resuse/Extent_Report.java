@@ -46,5 +46,16 @@ public class Extent_Report {
 	public static void flushreport() {
 		extentreport.flush();
 	}
-
+	public static void flushreport1() {
+		extentreport.flush();
+	}
+	public static void flushreport2() {
+		extentreport.flush();
+	}
+	public static void flushreport3() {
+		extentreport.flush();
+	}
+	public static void flushreport4() {
+		extentreport.flush();
+	}
 }
