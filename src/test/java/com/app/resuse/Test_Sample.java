@@ -31,4 +31,9 @@ public class Test_Sample {
 		logger.info("test3");
 		Assert.assertTrue(true);
 	}
+	@Test
+	public void test5() {
+		logger.info("test3");
+		Assert.assertTrue(true);
+	}
 }
