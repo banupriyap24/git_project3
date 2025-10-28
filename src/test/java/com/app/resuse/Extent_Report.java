@@ -58,4 +58,10 @@ public class Extent_Report {
 	public static void flushreport4() {
 		extentreport.flush();
 	}
+	public static void flushreport5() {
+		extentreport.flush();
+	}
+	public static void flushreport6() {
+		extentreport.flush();
+	}
 }
